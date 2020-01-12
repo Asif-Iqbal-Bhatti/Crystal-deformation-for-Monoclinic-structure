@@ -17,7 +17,7 @@ using namespace std;
 /*
 **********************************DOCUMENTATION******************************
 * Author: ASIF IQBAL BHATTI
-* DATE : 24/10/2015
+* DATE : 12/01/2020
 * VERSION: 1.0
 * USAGE: icpc/icc/g++ -O3 defor.cpp (Intel/gcc compiler) tested.
 * PURPOSE: Generating the deformed structures along each lattice vector
